@@ -113,3 +113,13 @@ This project is licensed under the **MIT License**.
 
 ---
 
+## 👩‍💻 Author
+
+**Keerthana M**
+* 🎓 AI & Data Science Engineer
+* 📄 [LinkedIn](https://www.linkedin.com/in/keerthana-manamohana-a8038325a/) | [GitHub](https://github.com/keerth12)
+
+
+
+
+
