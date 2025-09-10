@@ -1,0 +1,9 @@
+streamlit
+langchain-openai
+langchain-groq
+langchain-google-genai
+langchain-core
+langchain-community
+requests
+faiss-cpu
+sentence-transformers

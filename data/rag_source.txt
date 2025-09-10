@@ -1,0 +1,3 @@
+LangChain is an open-source framework for building applications powered by large language models (LLMs). It provides a suite of tools, components, and interfaces that simplify the creation of agents, RAG pipelines, and conversational AI systems. The core idea is to "chain" together different components to create more complex use cases.
+
+The LangChain ecosystem includes LangChain Core, LangChain Community, and LangChain Open Source. LangChain Core provides the foundational abstractions for building chains and agents, while LangChain Community contains third-party integrations.
