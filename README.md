@@ -39,7 +39,8 @@ An interactive **AI-powered chatbot** built using **Streamlit** and **Groq**, de
 
 ## 📷 Screenshot
 
-![App Screenshot](./screenshot.png)
+![Page Overview](./Page%20overview.png)
+
 
 ---
 
@@ -112,4 +113,3 @@ This project is licensed under the **MIT License**.
 
 ---
 
-👉 Do you want me to also add a **comparison note** (like “Groq is faster and more efficient than traditional LLM APIs”) to make your project stand out more for recruiters?
